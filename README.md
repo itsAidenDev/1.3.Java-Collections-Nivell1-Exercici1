@@ -16,10 +16,6 @@ This exercise demonstrates the use of ArrayList, HashSet, and iteration in Java.
 The goal is to create a Month class, add 11 Month objects to an ArrayList (excluding August), insert August in its correct position, and then convert the ArrayList to a HashSet to ensure no duplicates are allowed. Finally, the program iterates through the collections using a for loop and an Iterator.
 
 
-
-
-
-
 ## Technologies used 💻
 
 - Java
@@ -40,7 +36,8 @@ The goal is to create a Month class, add 11 Month objects to an ArrayList (exclu
 1. Clone this repository to your local machine.
 2. Open the project in IntelliJ IDEA.
 3. Compile the project.
-4. Run the main class to see how the different instrument types are instantiated and how the "play()" method is invoked.
+
+
 ## Contributions 🤝
 
 If you wish, do not hesitate to contribute to this project with your improvements or corrections.
